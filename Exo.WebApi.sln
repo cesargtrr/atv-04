@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo.WebApi", "Exo.WebApi.csproj", "{B39E7CC2-4C94-4D31-8A0F-96E16210BE7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39E7CC2-4C94-4D31-8A0F-96E16210BE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E7CC2-4C94-4D31-8A0F-96E16210BE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E7CC2-4C94-4D31-8A0F-96E16210BE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E7CC2-4C94-4D31-8A0F-96E16210BE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBACAD6-C861-4C9C-A862-E50B3DA86A19}
+	EndGlobalSection
+EndGlobal
